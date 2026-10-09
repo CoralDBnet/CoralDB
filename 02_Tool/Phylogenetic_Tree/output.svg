@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 150" width="100%" height="100%">
+<defs>
+<style>
+  .branch { stroke: #333; stroke-width: 1.5; fill: none; }
+  .label { font-family: monospace; font-size: 10px; fill: #333; }
+  .bs-text { font-family: monospace; font-size: 9px; fill: #E65100; text-anchor: end; }
+</style>
+</defs>
+<rect id="bg" width="630" height="150" fill="#fff"/>
+<g id="tree-g" transform="translate(0,0)">
+<text class="label" x="438" y="46">Pvu3g0650</text>
+<text class="label" x="438" y="68">Pvu2g0656</text>
+<text class="label" x="438" y="90">Adu05g01416</text>
+<text class="label" x="438" y="112">Vvi1g0730</text>
+<text class="label" x="438" y="134">Adu03g03729</text>
+<line class="branch" x1="177" y1="108" x2="177" y2="130"/>
+<line class="branch" x1="430" y1="108" x2="177" y2="108"/>
+<line class="branch" x1="430" y1="130" x2="177" y2="130"/>
+<text class="bs-text" x="167" y="115.0">83</text>
+<line class="branch" x1="87" y1="86" x2="87" y2="119.0"/>
+<line class="branch" x1="430" y1="86" x2="87" y2="86"/>
+<line class="branch" x1="177" y1="119.0" x2="87" y2="119.0"/>
+<text class="bs-text" x="77" y="98.5">73</text>
+<line class="branch" x1="33" y1="64" x2="33" y2="102.5"/>
+<line class="branch" x1="430" y1="64" x2="33" y2="64"/>
+<line class="branch" x1="87" y1="102.5" x2="33" y2="102.5"/>
+<text class="bs-text" x="23" y="79.25">24</text>
+<line class="branch" x1="30" y1="42" x2="30" y2="83.25"/>
+<line class="branch" x1="430" y1="42" x2="30" y2="42"/>
+<line class="branch" x1="33" y1="83.25" x2="30" y2="83.25"/>
+<text class="bs-text" x="20" y="58.625">100</text>
+</g>
+<script type="text/javascript"><![CDATA[
+var bg=document.getElementById("bg");
+var g=document.getElementById("tree-g");
+var px=0,py=0,dr=0,sx,sy;
+bg.addEventListener("mousedown",function(e){if(e.target!==bg)return;dr=1;sx=e.clientX-px;sy=e.clientY-py;bg.style.cursor="grabbing";});
+document.addEventListener("mousemove",function(e){if(!dr)return;px=e.clientX-sx;py=e.clientY-sy;var z=g.getAttribute("data-zoom")||1;g.setAttribute("transform","translate("+px+","+py+") scale("+z+")");});
+document.addEventListener("mouseup",function(){dr=0;bg.style.cursor="default";});
+bg.addEventListener("wheel",function(e){e.preventDefault();var z=parseFloat(g.getAttribute("data-zoom")||1);z+=e.deltaY>0?-0.1:0.1;z=Math.max(0.3,Math.min(3,z));g.setAttribute("data-zoom",z);g.setAttribute("transform","translate("+px+","+py+") scale("+z+")");});
+]]></script>
+</svg>

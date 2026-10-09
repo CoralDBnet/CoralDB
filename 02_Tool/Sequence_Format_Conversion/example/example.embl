@@ -1,0 +1,45 @@
+ID   SEQ1; ; ; DNA; ; UNC; 50 BP.
+XX
+AC   SEQ1;
+XX
+DE   Example DNA sequence 1
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FH
+XX
+SQ   Sequence 50 BP; 12 A; 11 C; 12 G; 12 T; 3 other;
+     atgcgtacgt agctagctag catcgatcga ---tcgatcg atcgtagcta                   50
+//
+ID   SEQ2; ; ; DNA; ; UNC; 50 BP.
+XX
+AC   SEQ2;
+XX
+DE   Example DNA sequence 2
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FH
+XX
+SQ   Sequence 50 BP; 12 A; 13 C; 13 G; 12 T; 0 other;
+     ggtaccttac gcgatcgatc gtagctagct agctagcatc gtacgatcga                   50
+//
+ID   SEQ3; ; ; DNA; ; UNC; 50 BP.
+XX
+AC   SEQ3;
+XX
+DE   Example DNA sequence 3
+XX
+OS   .
+OC   .
+XX
+FH   Key             Location/Qualifiers
+FH
+XX
+SQ   Sequence 50 BP; 12 A; 12 C; 11 G; 12 T; 3 other;
+     ctagctagca tgcatgcatg catgcatgca tg---catgc atgcatgcat                   50
+//

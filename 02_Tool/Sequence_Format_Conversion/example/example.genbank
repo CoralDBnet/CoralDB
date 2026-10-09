@@ -1,0 +1,36 @@
+LOCUS       SEQ1                      50 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Example DNA sequence 1.
+ACCESSION   SEQ1
+VERSION     SEQ1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atgcgtacgt agctagctag catcgatcga ---tcgatcg atcgtagcta
+//
+LOCUS       SEQ2                      50 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Example DNA sequence 2.
+ACCESSION   SEQ2
+VERSION     SEQ2
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggtaccttac gcgatcgatc gtagctagct agctagcatc gtacgatcga
+//
+LOCUS       SEQ3                      50 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Example DNA sequence 3.
+ACCESSION   SEQ3
+VERSION     SEQ3
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctagctagca tgcatgcatg catgcatgca tg---catgc atgcatgcat
+//

@@ -1,0 +1,1027 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1474 183" width="100%" height="100%">
+<style>
+  .cell { cursor: pointer; }
+  .cell:hover { stroke: #000; stroke-width: 1.5; }
+  .seq-label { font-family: monospace; font-size: 12px; fill: #333; }
+  .pos-label { font-family: monospace; font-size: 10px; fill: #999; }
+  .residue { font-family: monospace; font-size: 10px; fill: #000; pointer-events: none; }
+</style>
+<rect width="1474" height="183" fill="#fff"/>
+<text x="187.0" y="20" class="pos-label" text-anchor="middle">1</text>
+<text x="327.0" y="20" class="pos-label" text-anchor="middle">11</text>
+<text x="467.0" y="20" class="pos-label" text-anchor="middle">21</text>
+<text x="607.0" y="20" class="pos-label" text-anchor="middle">31</text>
+<text x="747.0" y="20" class="pos-label" text-anchor="middle">41</text>
+<text x="887.0" y="20" class="pos-label" text-anchor="middle">51</text>
+<text x="1027.0" y="20" class="pos-label" text-anchor="middle">61</text>
+<text x="1167.0" y="20" class="pos-label" text-anchor="middle">71</text>
+<text x="1307.0" y="20" class="pos-label" text-anchor="middle">81</text>
+<text x="1447.0" y="20" class="pos-label" text-anchor="middle">91</text>
+<text x="5" y="37.6" class="seq-label">Vvi1g0730</text>
+<rect class="cell" x="180" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:1  M</title></rect>
+<text class="residue" x="187.0" y="37.6" text-anchor="middle">M</text>
+<rect class="cell" x="194" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:2  V</title></rect>
+<text class="residue" x="201.0" y="37.6" text-anchor="middle">V</text>
+<rect class="cell" x="208" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:3  V</title></rect>
+<text class="residue" x="215.0" y="37.6" text-anchor="middle">V</text>
+<rect class="cell" x="222" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:4  L</title></rect>
+<text class="residue" x="229.0" y="37.6" text-anchor="middle">L</text>
+<rect class="cell" x="236" y="25" width="14" height="18" fill="#F08080"><title>Vvi1g0730  pos:5  C</title></rect>
+<text class="residue" x="243.0" y="37.6" text-anchor="middle">C</text>
+<rect class="cell" x="250" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:6  W</title></rect>
+<text class="residue" x="257.0" y="37.6" text-anchor="middle">W</text>
+<rect class="cell" x="264" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:7  M</title></rect>
+<text class="residue" x="271.0" y="37.6" text-anchor="middle">M</text>
+<rect class="cell" x="278" y="25" width="14" height="18" fill="#C048C0"><title>Vvi1g0730  pos:8  D</title></rect>
+<text class="residue" x="285.0" y="37.6" text-anchor="middle">D</text>
+<rect class="cell" x="292" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:9  L</title></rect>
+<text class="residue" x="299.0" y="37.6" text-anchor="middle">L</text>
+<rect class="cell" x="306" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:10  V</title></rect>
+<text class="residue" x="313.0" y="37.6" text-anchor="middle">V</text>
+<rect class="cell" x="320" y="25" width="14" height="18" fill="#F09048"><title>Vvi1g0730  pos:11  G</title></rect>
+<text class="residue" x="327.0" y="37.6" text-anchor="middle">G</text>
+<rect class="cell" x="334" y="25" width="14" height="18" fill="#C048C0"><title>Vvi1g0730  pos:12  D</title></rect>
+<text class="residue" x="341.0" y="37.6" text-anchor="middle">D</text>
+<rect class="cell" x="348" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:13  M</title></rect>
+<text class="residue" x="355.0" y="37.6" text-anchor="middle">M</text>
+<rect class="cell" x="362" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:14  A</title></rect>
+<text class="residue" x="369.0" y="37.6" text-anchor="middle">A</text>
+<rect class="cell" x="376" y="25" width="14" height="18" fill="#CCCC00"><title>Vvi1g0730  pos:15  P</title></rect>
+<text class="residue" x="383.0" y="37.6" text-anchor="middle">P</text>
+<rect class="cell" x="390" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:16  W</title></rect>
+<text class="residue" x="397.0" y="37.6" text-anchor="middle">W</text>
+<rect class="cell" x="404" y="25" width="14" height="18" fill="#FFFFFF"><title>Vvi1g0730  pos:17  -</title></rect>
+<text class="residue" x="411.0" y="37.6" text-anchor="middle">-</text>
+<rect class="cell" x="418" y="25" width="14" height="18" fill="#FFFFFF"><title>Vvi1g0730  pos:18  -</title></rect>
+<text class="residue" x="425.0" y="37.6" text-anchor="middle">-</text>
+<rect class="cell" x="432" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:19  T</title></rect>
+<text class="residue" x="439.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="446" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:20  K</title></rect>
+<text class="residue" x="453.0" y="37.6" text-anchor="middle">K</text>
+<rect class="cell" x="460" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:21  T</title></rect>
+<text class="residue" x="467.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="474" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:22  R</title></rect>
+<text class="residue" x="481.0" y="37.6" text-anchor="middle">R</text>
+<rect class="cell" x="488" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:23  N</title></rect>
+<text class="residue" x="495.0" y="37.6" text-anchor="middle">N</text>
+<rect class="cell" x="502" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:24  K</title></rect>
+<text class="residue" x="509.0" y="37.6" text-anchor="middle">K</text>
+<rect class="cell" x="516" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:25  W</title></rect>
+<text class="residue" x="523.0" y="37.6" text-anchor="middle">W</text>
+<rect class="cell" x="530" y="25" width="14" height="18" fill="#15A4A4"><title>Vvi1g0730  pos:26  Y</title></rect>
+<text class="residue" x="537.0" y="37.6" text-anchor="middle">Y</text>
+<rect class="cell" x="544" y="25" width="14" height="18" fill="#15A4A4"><title>Vvi1g0730  pos:27  Y</title></rect>
+<text class="residue" x="551.0" y="37.6" text-anchor="middle">Y</text>
+<rect class="cell" x="558" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:28  F</title></rect>
+<text class="residue" x="565.0" y="37.6" text-anchor="middle">F</text>
+<rect class="cell" x="572" y="25" width="14" height="18" fill="#C048C0"><title>Vvi1g0730  pos:29  D</title></rect>
+<text class="residue" x="579.0" y="37.6" text-anchor="middle">D</text>
+<rect class="cell" x="586" y="25" width="14" height="18" fill="#15A4A4"><title>Vvi1g0730  pos:30  H</title></rect>
+<text class="residue" x="593.0" y="37.6" text-anchor="middle">H</text>
+<rect class="cell" x="600" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:31  R</title></rect>
+<text class="residue" x="607.0" y="37.6" text-anchor="middle">R</text>
+<rect class="cell" x="614" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:32  R</title></rect>
+<text class="residue" x="621.0" y="37.6" text-anchor="middle">R</text>
+<rect class="cell" x="628" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:33  R</title></rect>
+<text class="residue" x="635.0" y="37.6" text-anchor="middle">R</text>
+<rect class="cell" x="642" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:34  Q</title></rect>
+<text class="residue" x="649.0" y="37.6" text-anchor="middle">Q</text>
+<rect class="cell" x="656" y="25" width="14" height="18" fill="#15A4A4"><title>Vvi1g0730  pos:35  H</title></rect>
+<text class="residue" x="663.0" y="37.6" text-anchor="middle">H</text>
+<rect class="cell" x="670" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:36  Q</title></rect>
+<text class="residue" x="677.0" y="37.6" text-anchor="middle">Q</text>
+<rect class="cell" x="684" y="25" width="14" height="18" fill="#F08080"><title>Vvi1g0730  pos:37  C</title></rect>
+<text class="residue" x="691.0" y="37.6" text-anchor="middle">C</text>
+<rect class="cell" x="698" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:38  T</title></rect>
+<text class="residue" x="705.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="712" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:39  Q</title></rect>
+<text class="residue" x="719.0" y="37.6" text-anchor="middle">Q</text>
+<rect class="cell" x="726" y="25" width="14" height="18" fill="#CCCC00"><title>Vvi1g0730  pos:40  P</title></rect>
+<text class="residue" x="733.0" y="37.6" text-anchor="middle">P</text>
+<rect class="cell" x="740" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:41  Q</title></rect>
+<text class="residue" x="747.0" y="37.6" text-anchor="middle">Q</text>
+<rect class="cell" x="754" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:42  T</title></rect>
+<text class="residue" x="761.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="768" y="25" width="14" height="18" fill="#F09048"><title>Vvi1g0730  pos:43  G</title></rect>
+<text class="residue" x="775.0" y="37.6" text-anchor="middle">G</text>
+<rect class="cell" x="782" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:44  L</title></rect>
+<text class="residue" x="789.0" y="37.6" text-anchor="middle">L</text>
+<rect class="cell" x="796" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:45  A</title></rect>
+<text class="residue" x="803.0" y="37.6" text-anchor="middle">A</text>
+<rect class="cell" x="810" y="25" width="14" height="18" fill="#C048C0"><title>Vvi1g0730  pos:46  E</title></rect>
+<text class="residue" x="817.0" y="37.6" text-anchor="middle">E</text>
+<rect class="cell" x="824" y="25" width="14" height="18" fill="#C048C0"><title>Vvi1g0730  pos:47  E</title></rect>
+<text class="residue" x="831.0" y="37.6" text-anchor="middle">E</text>
+<rect class="cell" x="838" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:48  T</title></rect>
+<text class="residue" x="845.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="852" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:49  T</title></rect>
+<text class="residue" x="859.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="866" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:50  Q</title></rect>
+<text class="residue" x="873.0" y="37.6" text-anchor="middle">Q</text>
+<rect class="cell" x="880" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:51  T</title></rect>
+<text class="residue" x="887.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="894" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:52  I</title></rect>
+<text class="residue" x="901.0" y="37.6" text-anchor="middle">I</text>
+<rect class="cell" x="908" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:53  S</title></rect>
+<text class="residue" x="915.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="922" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:54  S</title></rect>
+<text class="residue" x="929.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="936" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:55  N</title></rect>
+<text class="residue" x="943.0" y="37.6" text-anchor="middle">N</text>
+<rect class="cell" x="950" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:56  M</title></rect>
+<text class="residue" x="957.0" y="37.6" text-anchor="middle">M</text>
+<rect class="cell" x="964" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:57  A</title></rect>
+<text class="residue" x="971.0" y="37.6" text-anchor="middle">A</text>
+<rect class="cell" x="978" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:58  S</title></rect>
+<text class="residue" x="985.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="992" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:59  S</title></rect>
+<text class="residue" x="999.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1006" y="25" width="14" height="18" fill="#15A4A4"><title>Vvi1g0730  pos:60  Y</title></rect>
+<text class="residue" x="1013.0" y="37.6" text-anchor="middle">Y</text>
+<rect class="cell" x="1020" y="25" width="14" height="18" fill="#F08080"><title>Vvi1g0730  pos:61  C</title></rect>
+<text class="residue" x="1027.0" y="37.6" text-anchor="middle">C</text>
+<rect class="cell" x="1034" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:62  K</title></rect>
+<text class="residue" x="1041.0" y="37.6" text-anchor="middle">K</text>
+<rect class="cell" x="1048" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:63  I</title></rect>
+<text class="residue" x="1055.0" y="37.6" text-anchor="middle">I</text>
+<rect class="cell" x="1062" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:64  S</title></rect>
+<text class="residue" x="1069.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1076" y="25" width="14" height="18" fill="#CCCC00"><title>Vvi1g0730  pos:65  P</title></rect>
+<text class="residue" x="1083.0" y="37.6" text-anchor="middle">P</text>
+<rect class="cell" x="1090" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:66  I</title></rect>
+<text class="residue" x="1097.0" y="37.6" text-anchor="middle">I</text>
+<rect class="cell" x="1104" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:67  I</title></rect>
+<text class="residue" x="1111.0" y="37.6" text-anchor="middle">I</text>
+<rect class="cell" x="1118" y="25" width="14" height="18" fill="#CCCC00"><title>Vvi1g0730  pos:68  P</title></rect>
+<text class="residue" x="1125.0" y="37.6" text-anchor="middle">P</text>
+<rect class="cell" x="1132" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:69  I</title></rect>
+<text class="residue" x="1139.0" y="37.6" text-anchor="middle">I</text>
+<rect class="cell" x="1146" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:70  F</title></rect>
+<text class="residue" x="1153.0" y="37.6" text-anchor="middle">F</text>
+<rect class="cell" x="1160" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:71  V</title></rect>
+<text class="residue" x="1167.0" y="37.6" text-anchor="middle">V</text>
+<rect class="cell" x="1174" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:72  S</title></rect>
+<text class="residue" x="1181.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1188" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:73  F</title></rect>
+<text class="residue" x="1195.0" y="37.6" text-anchor="middle">F</text>
+<rect class="cell" x="1202" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:74  L</title></rect>
+<text class="residue" x="1209.0" y="37.6" text-anchor="middle">L</text>
+<rect class="cell" x="1216" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:75  L</title></rect>
+<text class="residue" x="1223.0" y="37.6" text-anchor="middle">L</text>
+<rect class="cell" x="1230" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:76  V</title></rect>
+<text class="residue" x="1237.0" y="37.6" text-anchor="middle">V</text>
+<rect class="cell" x="1244" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:77  A</title></rect>
+<text class="residue" x="1251.0" y="37.6" text-anchor="middle">A</text>
+<rect class="cell" x="1258" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:78  S</title></rect>
+<text class="residue" x="1265.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1272" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:79  S</title></rect>
+<text class="residue" x="1279.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1286" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:80  V</title></rect>
+<text class="residue" x="1293.0" y="37.6" text-anchor="middle">V</text>
+<rect class="cell" x="1300" y="25" width="14" height="18" fill="#F08080"><title>Vvi1g0730  pos:81  C</title></rect>
+<text class="residue" x="1307.0" y="37.6" text-anchor="middle">C</text>
+<rect class="cell" x="1314" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:82  S</title></rect>
+<text class="residue" x="1321.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1328" y="25" width="14" height="18" fill="#80A0F0"><title>Vvi1g0730  pos:83  V</title></rect>
+<text class="residue" x="1335.0" y="37.6" text-anchor="middle">V</text>
+<rect class="cell" x="1342" y="25" width="14" height="18" fill="#15A4A4"><title>Vvi1g0730  pos:84  H</title></rect>
+<text class="residue" x="1349.0" y="37.6" text-anchor="middle">H</text>
+<rect class="cell" x="1356" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:85  S</title></rect>
+<text class="residue" x="1363.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1370" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:86  S</title></rect>
+<text class="residue" x="1377.0" y="37.6" text-anchor="middle">S</text>
+<rect class="cell" x="1384" y="25" width="14" height="18" fill="#C048C0"><title>Vvi1g0730  pos:87  E</title></rect>
+<text class="residue" x="1391.0" y="37.6" text-anchor="middle">E</text>
+<rect class="cell" x="1398" y="25" width="14" height="18" fill="#00FF00"><title>Vvi1g0730  pos:88  T</title></rect>
+<text class="residue" x="1405.0" y="37.6" text-anchor="middle">T</text>
+<rect class="cell" x="1412" y="25" width="14" height="18" fill="#C048C0"><title>Vvi1g0730  pos:89  D</title></rect>
+<text class="residue" x="1419.0" y="37.6" text-anchor="middle">D</text>
+<rect class="cell" x="1426" y="25" width="14" height="18" fill="#F01505"><title>Vvi1g0730  pos:90  R</title></rect>
+<text class="residue" x="1433.0" y="37.6" text-anchor="middle">R</text>
+<rect class="cell" x="1440" y="25" width="14" height="18" fill="#CCCC00"><title>Vvi1g0730  pos:91  P</title></rect>
+<text class="residue" x="1447.0" y="37.6" text-anchor="middle">P</text>
+<text x="5" y="55.6" class="seq-label">Adu05g01416</text>
+<rect class="cell" x="180" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:1  M</title></rect>
+<text class="residue" x="187.0" y="55.6" text-anchor="middle">M</text>
+<rect class="cell" x="194" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:2  -</title></rect>
+<text class="residue" x="201.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="208" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:3  -</title></rect>
+<text class="residue" x="215.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="222" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:4  -</title></rect>
+<text class="residue" x="229.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="236" y="43" width="14" height="18" fill="#F08080"><title>Adu05g01416  pos:5  C</title></rect>
+<text class="residue" x="243.0" y="55.6" text-anchor="middle">C</text>
+<rect class="cell" x="250" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:6  W</title></rect>
+<text class="residue" x="257.0" y="55.6" text-anchor="middle">W</text>
+<rect class="cell" x="264" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:7  -</title></rect>
+<text class="residue" x="271.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="278" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:8  -</title></rect>
+<text class="residue" x="285.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="292" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:9  N</title></rect>
+<text class="residue" x="299.0" y="55.6" text-anchor="middle">N</text>
+<rect class="cell" x="306" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:10  T</title></rect>
+<text class="residue" x="313.0" y="55.6" text-anchor="middle">T</text>
+<rect class="cell" x="320" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:11  Q</title></rect>
+<text class="residue" x="327.0" y="55.6" text-anchor="middle">Q</text>
+<rect class="cell" x="334" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:12  L</title></rect>
+<text class="residue" x="341.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="348" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:13  S</title></rect>
+<text class="residue" x="355.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="362" y="43" width="14" height="18" fill="#F08080"><title>Adu05g01416  pos:14  C</title></rect>
+<text class="residue" x="369.0" y="55.6" text-anchor="middle">C</text>
+<rect class="cell" x="376" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:15  L</title></rect>
+<text class="residue" x="383.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="390" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:16  V</title></rect>
+<text class="residue" x="397.0" y="55.6" text-anchor="middle">V</text>
+<rect class="cell" x="404" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:17  -</title></rect>
+<text class="residue" x="411.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="418" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:18  -</title></rect>
+<text class="residue" x="425.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="432" y="43" width="14" height="18" fill="#15A4A4"><title>Adu05g01416  pos:19  H</title></rect>
+<text class="residue" x="439.0" y="55.6" text-anchor="middle">H</text>
+<rect class="cell" x="446" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:20  R</title></rect>
+<text class="residue" x="453.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="460" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:21  R</title></rect>
+<text class="residue" x="467.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="474" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:22  R</title></rect>
+<text class="residue" x="481.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="488" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:23  R</title></rect>
+<text class="residue" x="495.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="502" y="43" width="14" height="18" fill="#F09048"><title>Adu05g01416  pos:24  G</title></rect>
+<text class="residue" x="509.0" y="55.6" text-anchor="middle">G</text>
+<rect class="cell" x="516" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:25  R</title></rect>
+<text class="residue" x="523.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="530" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:26  R</title></rect>
+<text class="residue" x="537.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="544" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:27  R</title></rect>
+<text class="residue" x="551.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="558" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:28  R</title></rect>
+<text class="residue" x="565.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="572" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:29  R</title></rect>
+<text class="residue" x="579.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="586" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:30  R</title></rect>
+<text class="residue" x="593.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="600" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:31  R</title></rect>
+<text class="residue" x="607.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="614" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:32  R</title></rect>
+<text class="residue" x="621.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="628" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:33  R</title></rect>
+<text class="residue" x="635.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="642" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:34  Q</title></rect>
+<text class="residue" x="649.0" y="55.6" text-anchor="middle">Q</text>
+<rect class="cell" x="656" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:35  S</title></rect>
+<text class="residue" x="663.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="670" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:36  Q</title></rect>
+<text class="residue" x="677.0" y="55.6" text-anchor="middle">Q</text>
+<rect class="cell" x="684" y="43" width="14" height="18" fill="#F08080"><title>Adu05g01416  pos:37  C</title></rect>
+<text class="residue" x="691.0" y="55.6" text-anchor="middle">C</text>
+<rect class="cell" x="698" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:38  K</title></rect>
+<text class="residue" x="705.0" y="55.6" text-anchor="middle">K</text>
+<rect class="cell" x="712" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:39  Q</title></rect>
+<text class="residue" x="719.0" y="55.6" text-anchor="middle">Q</text>
+<rect class="cell" x="726" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:40  M</title></rect>
+<text class="residue" x="733.0" y="55.6" text-anchor="middle">M</text>
+<rect class="cell" x="740" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:41  N</title></rect>
+<text class="residue" x="747.0" y="55.6" text-anchor="middle">N</text>
+<rect class="cell" x="754" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:42  T</title></rect>
+<text class="residue" x="761.0" y="55.6" text-anchor="middle">T</text>
+<rect class="cell" x="768" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:43  N</title></rect>
+<text class="residue" x="775.0" y="55.6" text-anchor="middle">N</text>
+<rect class="cell" x="782" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:44  M</title></rect>
+<text class="residue" x="789.0" y="55.6" text-anchor="middle">M</text>
+<rect class="cell" x="796" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:45  K</title></rect>
+<text class="residue" x="803.0" y="55.6" text-anchor="middle">K</text>
+<rect class="cell" x="810" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:46  T</title></rect>
+<text class="residue" x="817.0" y="55.6" text-anchor="middle">T</text>
+<rect class="cell" x="824" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:47  R</title></rect>
+<text class="residue" x="831.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="838" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:48  T</title></rect>
+<text class="residue" x="845.0" y="55.6" text-anchor="middle">T</text>
+<rect class="cell" x="852" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:49  K</title></rect>
+<text class="residue" x="859.0" y="55.6" text-anchor="middle">K</text>
+<rect class="cell" x="866" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:50  R</title></rect>
+<text class="residue" x="873.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="880" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:51  S</title></rect>
+<text class="residue" x="887.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="894" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:52  F</title></rect>
+<text class="residue" x="901.0" y="55.6" text-anchor="middle">F</text>
+<rect class="cell" x="908" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:53  S</title></rect>
+<text class="residue" x="915.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="922" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:54  S</title></rect>
+<text class="residue" x="929.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="936" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:55  -</title></rect>
+<text class="residue" x="943.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="950" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:56  M</title></rect>
+<text class="residue" x="957.0" y="55.6" text-anchor="middle">M</text>
+<rect class="cell" x="964" y="43" width="14" height="18" fill="#C048C0"><title>Adu05g01416  pos:57  D</title></rect>
+<text class="residue" x="971.0" y="55.6" text-anchor="middle">D</text>
+<rect class="cell" x="978" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:58  F</title></rect>
+<text class="residue" x="985.0" y="55.6" text-anchor="middle">F</text>
+<rect class="cell" x="992" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:59  S</title></rect>
+<text class="residue" x="999.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="1006" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:60  W</title></rect>
+<text class="residue" x="1013.0" y="55.6" text-anchor="middle">W</text>
+<rect class="cell" x="1020" y="43" width="14" height="18" fill="#F08080"><title>Adu05g01416  pos:61  C</title></rect>
+<text class="residue" x="1027.0" y="55.6" text-anchor="middle">C</text>
+<rect class="cell" x="1034" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:62  L</title></rect>
+<text class="residue" x="1041.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="1048" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:63  S</title></rect>
+<text class="residue" x="1055.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="1062" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:64  F</title></rect>
+<text class="residue" x="1069.0" y="55.6" text-anchor="middle">F</text>
+<rect class="cell" x="1076" y="43" width="14" height="18" fill="#CCCC00"><title>Adu05g01416  pos:65  P</title></rect>
+<text class="residue" x="1083.0" y="55.6" text-anchor="middle">P</text>
+<rect class="cell" x="1090" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:66  I</title></rect>
+<text class="residue" x="1097.0" y="55.6" text-anchor="middle">I</text>
+<rect class="cell" x="1104" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:67  I</title></rect>
+<text class="residue" x="1111.0" y="55.6" text-anchor="middle">I</text>
+<rect class="cell" x="1118" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:68  -</title></rect>
+<text class="residue" x="1125.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="1132" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:69  -</title></rect>
+<text class="residue" x="1139.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="1146" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:70  -</title></rect>
+<text class="residue" x="1153.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="1160" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:71  V</title></rect>
+<text class="residue" x="1167.0" y="55.6" text-anchor="middle">V</text>
+<rect class="cell" x="1174" y="43" width="14" height="18" fill="#15A4A4"><title>Adu05g01416  pos:72  H</title></rect>
+<text class="residue" x="1181.0" y="55.6" text-anchor="middle">H</text>
+<rect class="cell" x="1188" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:73  F</title></rect>
+<text class="residue" x="1195.0" y="55.6" text-anchor="middle">F</text>
+<rect class="cell" x="1202" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:74  L</title></rect>
+<text class="residue" x="1209.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="1216" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:75  L</title></rect>
+<text class="residue" x="1223.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="1230" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:76  L</title></rect>
+<text class="residue" x="1237.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="1244" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:77  V</title></rect>
+<text class="residue" x="1251.0" y="55.6" text-anchor="middle">V</text>
+<rect class="cell" x="1258" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:78  S</title></rect>
+<text class="residue" x="1265.0" y="55.6" text-anchor="middle">S</text>
+<rect class="cell" x="1272" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:79  L</title></rect>
+<text class="residue" x="1279.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="1286" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:80  V</title></rect>
+<text class="residue" x="1293.0" y="55.6" text-anchor="middle">V</text>
+<rect class="cell" x="1300" y="43" width="14" height="18" fill="#F08080"><title>Adu05g01416  pos:81  C</title></rect>
+<text class="residue" x="1307.0" y="55.6" text-anchor="middle">C</text>
+<rect class="cell" x="1314" y="43" width="14" height="18" fill="#CCCC00"><title>Adu05g01416  pos:82  P</title></rect>
+<text class="residue" x="1321.0" y="55.6" text-anchor="middle">P</text>
+<rect class="cell" x="1328" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:83  V</title></rect>
+<text class="residue" x="1335.0" y="55.6" text-anchor="middle">V</text>
+<rect class="cell" x="1342" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:84  -</title></rect>
+<text class="residue" x="1349.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="1356" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:85  -</title></rect>
+<text class="residue" x="1363.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="1370" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:86  -</title></rect>
+<text class="residue" x="1377.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="1384" y="43" width="14" height="18" fill="#FFFFFF"><title>Adu05g01416  pos:87  -</title></rect>
+<text class="residue" x="1391.0" y="55.6" text-anchor="middle">-</text>
+<rect class="cell" x="1398" y="43" width="14" height="18" fill="#00FF00"><title>Adu05g01416  pos:88  T</title></rect>
+<text class="residue" x="1405.0" y="55.6" text-anchor="middle">T</text>
+<rect class="cell" x="1412" y="43" width="14" height="18" fill="#80A0F0"><title>Adu05g01416  pos:89  L</title></rect>
+<text class="residue" x="1419.0" y="55.6" text-anchor="middle">L</text>
+<rect class="cell" x="1426" y="43" width="14" height="18" fill="#F01505"><title>Adu05g01416  pos:90  R</title></rect>
+<text class="residue" x="1433.0" y="55.6" text-anchor="middle">R</text>
+<rect class="cell" x="1440" y="43" width="14" height="18" fill="#CCCC00"><title>Adu05g01416  pos:91  P</title></rect>
+<text class="residue" x="1447.0" y="55.6" text-anchor="middle">P</text>
+<text x="5" y="73.6" class="seq-label">Adu03g03729</text>
+<rect class="cell" x="180" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:1  M</title></rect>
+<text class="residue" x="187.0" y="73.6" text-anchor="middle">M</text>
+<rect class="cell" x="194" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:2  -</title></rect>
+<text class="residue" x="201.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="208" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:3  -</title></rect>
+<text class="residue" x="215.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="222" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:4  -</title></rect>
+<text class="residue" x="229.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="236" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:5  S</title></rect>
+<text class="residue" x="243.0" y="73.6" text-anchor="middle">S</text>
+<rect class="cell" x="250" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:6  T</title></rect>
+<text class="residue" x="257.0" y="73.6" text-anchor="middle">T</text>
+<rect class="cell" x="264" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:7  T</title></rect>
+<text class="residue" x="271.0" y="73.6" text-anchor="middle">T</text>
+<rect class="cell" x="278" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:8  I</title></rect>
+<text class="residue" x="285.0" y="73.6" text-anchor="middle">I</text>
+<rect class="cell" x="292" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:9  L</title></rect>
+<text class="residue" x="299.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="306" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:10  V</title></rect>
+<text class="residue" x="313.0" y="73.6" text-anchor="middle">V</text>
+<rect class="cell" x="320" y="61" width="14" height="18" fill="#CCCC00"><title>Adu03g03729  pos:11  P</title></rect>
+<text class="residue" x="327.0" y="73.6" text-anchor="middle">P</text>
+<rect class="cell" x="334" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:12  F</title></rect>
+<text class="residue" x="341.0" y="73.6" text-anchor="middle">F</text>
+<rect class="cell" x="348" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:13  L</title></rect>
+<text class="residue" x="355.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="362" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:14  L</title></rect>
+<text class="residue" x="369.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="376" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:15  L</title></rect>
+<text class="residue" x="383.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="390" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:16  L</title></rect>
+<text class="residue" x="397.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="404" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:17  -</title></rect>
+<text class="residue" x="411.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="418" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:18  -</title></rect>
+<text class="residue" x="425.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="432" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:19  L</title></rect>
+<text class="residue" x="439.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="446" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:20  M</title></rect>
+<text class="residue" x="453.0" y="73.6" text-anchor="middle">M</text>
+<rect class="cell" x="460" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:21  V</title></rect>
+<text class="residue" x="467.0" y="73.6" text-anchor="middle">V</text>
+<rect class="cell" x="474" y="61" width="14" height="18" fill="#F08080"><title>Adu03g03729  pos:22  C</title></rect>
+<text class="residue" x="481.0" y="73.6" text-anchor="middle">C</text>
+<rect class="cell" x="488" y="61" width="14" height="18" fill="#15A4A4"><title>Adu03g03729  pos:23  H</title></rect>
+<text class="residue" x="495.0" y="73.6" text-anchor="middle">H</text>
+<rect class="cell" x="502" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:24  V</title></rect>
+<text class="residue" x="509.0" y="73.6" text-anchor="middle">V</text>
+<rect class="cell" x="516" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:25  A</title></rect>
+<text class="residue" x="523.0" y="73.6" text-anchor="middle">A</text>
+<rect class="cell" x="530" y="61" width="14" height="18" fill="#F08080"><title>Adu03g03729  pos:26  C</title></rect>
+<text class="residue" x="537.0" y="73.6" text-anchor="middle">C</text>
+<rect class="cell" x="544" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:27  S</title></rect>
+<text class="residue" x="551.0" y="73.6" text-anchor="middle">S</text>
+<rect class="cell" x="558" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:28  F</title></rect>
+<text class="residue" x="565.0" y="73.6" text-anchor="middle">F</text>
+<rect class="cell" x="572" y="61" width="14" height="18" fill="#C048C0"><title>Adu03g03729  pos:29  E</title></rect>
+<text class="residue" x="579.0" y="73.6" text-anchor="middle">E</text>
+<rect class="cell" x="586" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:30  N</title></rect>
+<text class="residue" x="593.0" y="73.6" text-anchor="middle">N</text>
+<rect class="cell" x="600" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:31  Q</title></rect>
+<text class="residue" x="607.0" y="73.6" text-anchor="middle">Q</text>
+<rect class="cell" x="614" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:32  T</title></rect>
+<text class="residue" x="621.0" y="73.6" text-anchor="middle">T</text>
+<rect class="cell" x="628" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:33  F</title></rect>
+<text class="residue" x="635.0" y="73.6" text-anchor="middle">F</text>
+<rect class="cell" x="642" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:34  R</title></rect>
+<text class="residue" x="649.0" y="73.6" text-anchor="middle">R</text>
+<rect class="cell" x="656" y="61" width="14" height="18" fill="#CCCC00"><title>Adu03g03729  pos:35  P</title></rect>
+<text class="residue" x="663.0" y="73.6" text-anchor="middle">P</text>
+<rect class="cell" x="670" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:36  L</title></rect>
+<text class="residue" x="677.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="684" y="61" width="14" height="18" fill="#C048C0"><title>Adu03g03729  pos:37  E</title></rect>
+<text class="residue" x="691.0" y="73.6" text-anchor="middle">E</text>
+<rect class="cell" x="698" y="61" width="14" height="18" fill="#C048C0"><title>Adu03g03729  pos:38  E</title></rect>
+<text class="residue" x="705.0" y="73.6" text-anchor="middle">E</text>
+<rect class="cell" x="712" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:39  L</title></rect>
+<text class="residue" x="719.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="726" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:40  R</title></rect>
+<text class="residue" x="733.0" y="73.6" text-anchor="middle">R</text>
+<rect class="cell" x="740" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:41  K</title></rect>
+<text class="residue" x="747.0" y="73.6" text-anchor="middle">K</text>
+<rect class="cell" x="754" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:42  L</title></rect>
+<text class="residue" x="761.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="768" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:43  R</title></rect>
+<text class="residue" x="775.0" y="73.6" text-anchor="middle">R</text>
+<rect class="cell" x="782" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:44  T</title></rect>
+<text class="residue" x="789.0" y="73.6" text-anchor="middle">T</text>
+<rect class="cell" x="796" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:45  I</title></rect>
+<text class="residue" x="803.0" y="73.6" text-anchor="middle">I</text>
+<rect class="cell" x="810" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:46  R</title></rect>
+<text class="residue" x="817.0" y="73.6" text-anchor="middle">R</text>
+<rect class="cell" x="824" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:47  N</title></rect>
+<text class="residue" x="831.0" y="73.6" text-anchor="middle">N</text>
+<rect class="cell" x="838" y="61" width="14" height="18" fill="#15A4A4"><title>Adu03g03729  pos:48  H</title></rect>
+<text class="residue" x="845.0" y="73.6" text-anchor="middle">H</text>
+<rect class="cell" x="852" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:49  L</title></rect>
+<text class="residue" x="859.0" y="73.6" text-anchor="middle">L</text>
+<rect class="cell" x="866" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:50  Q</title></rect>
+<text class="residue" x="873.0" y="73.6" text-anchor="middle">Q</text>
+<rect class="cell" x="880" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:51  Q</title></rect>
+<text class="residue" x="887.0" y="73.6" text-anchor="middle">Q</text>
+<rect class="cell" x="894" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:52  I</title></rect>
+<text class="residue" x="901.0" y="73.6" text-anchor="middle">I</text>
+<rect class="cell" x="908" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:53  -</title></rect>
+<text class="residue" x="915.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="922" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:54  -</title></rect>
+<text class="residue" x="929.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="936" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:55  N</title></rect>
+<text class="residue" x="943.0" y="73.6" text-anchor="middle">N</text>
+<rect class="cell" x="950" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:56  K</title></rect>
+<text class="residue" x="957.0" y="73.6" text-anchor="middle">K</text>
+<rect class="cell" x="964" y="61" width="14" height="18" fill="#CCCC00"><title>Adu03g03729  pos:57  P</title></rect>
+<text class="residue" x="971.0" y="73.6" text-anchor="middle">P</text>
+<rect class="cell" x="978" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:58  S</title></rect>
+<text class="residue" x="985.0" y="73.6" text-anchor="middle">S</text>
+<rect class="cell" x="992" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:59  V</title></rect>
+<text class="residue" x="999.0" y="73.6" text-anchor="middle">V</text>
+<rect class="cell" x="1006" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:60  K</title></rect>
+<text class="residue" x="1013.0" y="73.6" text-anchor="middle">K</text>
+<rect class="cell" x="1020" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:61  T</title></rect>
+<text class="residue" x="1027.0" y="73.6" text-anchor="middle">T</text>
+<rect class="cell" x="1034" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:62  I</title></rect>
+<text class="residue" x="1041.0" y="73.6" text-anchor="middle">I</text>
+<rect class="cell" x="1048" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:63  Q</title></rect>
+<text class="residue" x="1055.0" y="73.6" text-anchor="middle">Q</text>
+<rect class="cell" x="1062" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:64  S</title></rect>
+<text class="residue" x="1069.0" y="73.6" text-anchor="middle">S</text>
+<rect class="cell" x="1076" y="61" width="14" height="18" fill="#CCCC00"><title>Adu03g03729  pos:65  P</title></rect>
+<text class="residue" x="1083.0" y="73.6" text-anchor="middle">P</text>
+<rect class="cell" x="1090" y="61" width="14" height="18" fill="#C048C0"><title>Adu03g03729  pos:66  D</title></rect>
+<text class="residue" x="1097.0" y="73.6" text-anchor="middle">D</text>
+<rect class="cell" x="1104" y="61" width="14" height="18" fill="#F09048"><title>Adu03g03729  pos:67  G</title></rect>
+<text class="residue" x="1111.0" y="73.6" text-anchor="middle">G</text>
+<rect class="cell" x="1118" y="61" width="14" height="18" fill="#C048C0"><title>Adu03g03729  pos:68  D</title></rect>
+<text class="residue" x="1125.0" y="73.6" text-anchor="middle">D</text>
+<rect class="cell" x="1132" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:69  I</title></rect>
+<text class="residue" x="1139.0" y="73.6" text-anchor="middle">I</text>
+<rect class="cell" x="1146" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:70  -</title></rect>
+<text class="residue" x="1153.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1160" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:71  -</title></rect>
+<text class="residue" x="1167.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1174" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:72  -</title></rect>
+<text class="residue" x="1181.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1188" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:73  -</title></rect>
+<text class="residue" x="1195.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1202" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:74  -</title></rect>
+<text class="residue" x="1209.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1216" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:75  -</title></rect>
+<text class="residue" x="1223.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1230" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:76  -</title></rect>
+<text class="residue" x="1237.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1244" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:77  -</title></rect>
+<text class="residue" x="1251.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1258" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:78  -</title></rect>
+<text class="residue" x="1265.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1272" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:79  I</title></rect>
+<text class="residue" x="1279.0" y="73.6" text-anchor="middle">I</text>
+<rect class="cell" x="1286" y="61" width="14" height="18" fill="#C048C0"><title>Adu03g03729  pos:80  D</title></rect>
+<text class="residue" x="1293.0" y="73.6" text-anchor="middle">D</text>
+<rect class="cell" x="1300" y="61" width="14" height="18" fill="#F08080"><title>Adu03g03729  pos:81  C</title></rect>
+<text class="residue" x="1307.0" y="73.6" text-anchor="middle">C</text>
+<rect class="cell" x="1314" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:82  V</title></rect>
+<text class="residue" x="1321.0" y="73.6" text-anchor="middle">V</text>
+<rect class="cell" x="1328" y="61" width="14" height="18" fill="#80A0F0"><title>Adu03g03729  pos:83  V</title></rect>
+<text class="residue" x="1335.0" y="73.6" text-anchor="middle">V</text>
+<rect class="cell" x="1342" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:84  -</title></rect>
+<text class="residue" x="1349.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1356" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:85  -</title></rect>
+<text class="residue" x="1363.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1370" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:86  -</title></rect>
+<text class="residue" x="1377.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1384" y="61" width="14" height="18" fill="#FFFFFF"><title>Adu03g03729  pos:87  -</title></rect>
+<text class="residue" x="1391.0" y="73.6" text-anchor="middle">-</text>
+<rect class="cell" x="1398" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:88  S</title></rect>
+<text class="residue" x="1405.0" y="73.6" text-anchor="middle">S</text>
+<rect class="cell" x="1412" y="61" width="14" height="18" fill="#15A4A4"><title>Adu03g03729  pos:89  H</title></rect>
+<text class="residue" x="1419.0" y="73.6" text-anchor="middle">H</text>
+<rect class="cell" x="1426" y="61" width="14" height="18" fill="#F01505"><title>Adu03g03729  pos:90  R</title></rect>
+<text class="residue" x="1433.0" y="73.6" text-anchor="middle">R</text>
+<rect class="cell" x="1440" y="61" width="14" height="18" fill="#00FF00"><title>Adu03g03729  pos:91  Q</title></rect>
+<text class="residue" x="1447.0" y="73.6" text-anchor="middle">Q</text>
+<text x="5" y="91.6" class="seq-label">Pvu2g0656</text>
+<rect class="cell" x="180" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:1  M</title></rect>
+<text class="residue" x="187.0" y="91.6" text-anchor="middle">M</text>
+<rect class="cell" x="194" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:2  -</title></rect>
+<text class="residue" x="201.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="208" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:3  -</title></rect>
+<text class="residue" x="215.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="222" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:4  -</title></rect>
+<text class="residue" x="229.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="236" y="79" width="14" height="18" fill="#F08080"><title>Pvu2g0656  pos:5  C</title></rect>
+<text class="residue" x="243.0" y="91.6" text-anchor="middle">C</text>
+<rect class="cell" x="250" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:6  W</title></rect>
+<text class="residue" x="257.0" y="91.6" text-anchor="middle">W</text>
+<rect class="cell" x="264" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:7  I</title></rect>
+<text class="residue" x="271.0" y="91.6" text-anchor="middle">I</text>
+<rect class="cell" x="278" y="79" width="14" height="18" fill="#C048C0"><title>Pvu2g0656  pos:8  D</title></rect>
+<text class="residue" x="285.0" y="91.6" text-anchor="middle">D</text>
+<rect class="cell" x="292" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:9  L</title></rect>
+<text class="residue" x="299.0" y="91.6" text-anchor="middle">L</text>
+<rect class="cell" x="306" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:10  V</title></rect>
+<text class="residue" x="313.0" y="91.6" text-anchor="middle">V</text>
+<rect class="cell" x="320" y="79" width="14" height="18" fill="#F09048"><title>Pvu2g0656  pos:11  G</title></rect>
+<text class="residue" x="327.0" y="91.6" text-anchor="middle">G</text>
+<rect class="cell" x="334" y="79" width="14" height="18" fill="#C048C0"><title>Pvu2g0656  pos:12  D</title></rect>
+<text class="residue" x="341.0" y="91.6" text-anchor="middle">D</text>
+<rect class="cell" x="348" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:13  T</title></rect>
+<text class="residue" x="355.0" y="91.6" text-anchor="middle">T</text>
+<rect class="cell" x="362" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:14  L</title></rect>
+<text class="residue" x="369.0" y="91.6" text-anchor="middle">L</text>
+<rect class="cell" x="376" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:15  A</title></rect>
+<text class="residue" x="383.0" y="91.6" text-anchor="middle">A</text>
+<rect class="cell" x="390" y="79" width="14" height="18" fill="#C048C0"><title>Pvu2g0656  pos:16  E</title></rect>
+<text class="residue" x="397.0" y="91.6" text-anchor="middle">E</text>
+<rect class="cell" x="404" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:17  -</title></rect>
+<text class="residue" x="411.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="418" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:18  -</title></rect>
+<text class="residue" x="425.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="432" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:19  S</title></rect>
+<text class="residue" x="439.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="446" y="79" width="14" height="18" fill="#F01505"><title>Pvu2g0656  pos:20  K</title></rect>
+<text class="residue" x="453.0" y="91.6" text-anchor="middle">K</text>
+<rect class="cell" x="460" y="79" width="14" height="18" fill="#CCCC00"><title>Pvu2g0656  pos:21  P</title></rect>
+<text class="residue" x="467.0" y="91.6" text-anchor="middle">P</text>
+<rect class="cell" x="474" y="79" width="14" height="18" fill="#F09048"><title>Pvu2g0656  pos:22  G</title></rect>
+<text class="residue" x="481.0" y="91.6" text-anchor="middle">G</text>
+<rect class="cell" x="488" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:23  N</title></rect>
+<text class="residue" x="495.0" y="91.6" text-anchor="middle">N</text>
+<rect class="cell" x="502" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:24  T</title></rect>
+<text class="residue" x="509.0" y="91.6" text-anchor="middle">T</text>
+<rect class="cell" x="516" y="79" width="14" height="18" fill="#15A4A4"><title>Pvu2g0656  pos:25  H</title></rect>
+<text class="residue" x="523.0" y="91.6" text-anchor="middle">H</text>
+<rect class="cell" x="530" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:26  F</title></rect>
+<text class="residue" x="537.0" y="91.6" text-anchor="middle">F</text>
+<rect class="cell" x="544" y="79" width="14" height="18" fill="#F08080"><title>Pvu2g0656  pos:27  C</title></rect>
+<text class="residue" x="551.0" y="91.6" text-anchor="middle">C</text>
+<rect class="cell" x="558" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:28  F</title></rect>
+<text class="residue" x="565.0" y="91.6" text-anchor="middle">F</text>
+<rect class="cell" x="572" y="79" width="14" height="18" fill="#F09048"><title>Pvu2g0656  pos:29  G</title></rect>
+<text class="residue" x="579.0" y="91.6" text-anchor="middle">G</text>
+<rect class="cell" x="586" y="79" width="14" height="18" fill="#15A4A4"><title>Pvu2g0656  pos:30  H</title></rect>
+<text class="residue" x="593.0" y="91.6" text-anchor="middle">H</text>
+<rect class="cell" x="600" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:31  T</title></rect>
+<text class="residue" x="607.0" y="91.6" text-anchor="middle">T</text>
+<rect class="cell" x="614" y="79" width="14" height="18" fill="#F01505"><title>Pvu2g0656  pos:32  R</title></rect>
+<text class="residue" x="621.0" y="91.6" text-anchor="middle">R</text>
+<rect class="cell" x="628" y="79" width="14" height="18" fill="#F01505"><title>Pvu2g0656  pos:33  R</title></rect>
+<text class="residue" x="635.0" y="91.6" text-anchor="middle">R</text>
+<rect class="cell" x="642" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:34  Q</title></rect>
+<text class="residue" x="649.0" y="91.6" text-anchor="middle">Q</text>
+<rect class="cell" x="656" y="79" width="14" height="18" fill="#F09048"><title>Pvu2g0656  pos:35  G</title></rect>
+<text class="residue" x="663.0" y="91.6" text-anchor="middle">G</text>
+<rect class="cell" x="670" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:36  Q</title></rect>
+<text class="residue" x="677.0" y="91.6" text-anchor="middle">Q</text>
+<rect class="cell" x="684" y="79" width="14" height="18" fill="#F08080"><title>Pvu2g0656  pos:37  C</title></rect>
+<text class="residue" x="691.0" y="91.6" text-anchor="middle">C</text>
+<rect class="cell" x="698" y="79" width="14" height="18" fill="#C048C0"><title>Pvu2g0656  pos:38  E</title></rect>
+<text class="residue" x="705.0" y="91.6" text-anchor="middle">E</text>
+<rect class="cell" x="712" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:39  Q</title></rect>
+<text class="residue" x="719.0" y="91.6" text-anchor="middle">Q</text>
+<rect class="cell" x="726" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:40  T</title></rect>
+<text class="residue" x="733.0" y="91.6" text-anchor="middle">T</text>
+<rect class="cell" x="740" y="79" width="14" height="18" fill="#15A4A4"><title>Pvu2g0656  pos:41  H</title></rect>
+<text class="residue" x="747.0" y="91.6" text-anchor="middle">H</text>
+<rect class="cell" x="754" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:42  T</title></rect>
+<text class="residue" x="761.0" y="91.6" text-anchor="middle">T</text>
+<rect class="cell" x="768" y="79" width="14" height="18" fill="#C048C0"><title>Pvu2g0656  pos:43  D</title></rect>
+<text class="residue" x="775.0" y="91.6" text-anchor="middle">D</text>
+<rect class="cell" x="782" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:44  L</title></rect>
+<text class="residue" x="789.0" y="91.6" text-anchor="middle">L</text>
+<rect class="cell" x="796" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:45  S</title></rect>
+<text class="residue" x="803.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="810" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:46  I</title></rect>
+<text class="residue" x="817.0" y="91.6" text-anchor="middle">I</text>
+<rect class="cell" x="824" y="79" width="14" height="18" fill="#C048C0"><title>Pvu2g0656  pos:47  E</title></rect>
+<text class="residue" x="831.0" y="91.6" text-anchor="middle">E</text>
+<rect class="cell" x="838" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:48  T</title></rect>
+<text class="residue" x="845.0" y="91.6" text-anchor="middle">T</text>
+<rect class="cell" x="852" y="79" width="14" height="18" fill="#F01505"><title>Pvu2g0656  pos:49  R</title></rect>
+<text class="residue" x="859.0" y="91.6" text-anchor="middle">R</text>
+<rect class="cell" x="866" y="79" width="14" height="18" fill="#F01505"><title>Pvu2g0656  pos:50  K</title></rect>
+<text class="residue" x="873.0" y="91.6" text-anchor="middle">K</text>
+<rect class="cell" x="880" y="79" width="14" height="18" fill="#F01505"><title>Pvu2g0656  pos:51  R</title></rect>
+<text class="residue" x="887.0" y="91.6" text-anchor="middle">R</text>
+<rect class="cell" x="894" y="79" width="14" height="18" fill="#C048C0"><title>Pvu2g0656  pos:52  D</title></rect>
+<text class="residue" x="901.0" y="91.6" text-anchor="middle">D</text>
+<rect class="cell" x="908" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:53  L</title></rect>
+<text class="residue" x="915.0" y="91.6" text-anchor="middle">L</text>
+<rect class="cell" x="922" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:54  S</title></rect>
+<text class="residue" x="929.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="936" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:55  S</title></rect>
+<text class="residue" x="943.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="950" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:56  M</title></rect>
+<text class="residue" x="957.0" y="91.6" text-anchor="middle">M</text>
+<rect class="cell" x="964" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:57  N</title></rect>
+<text class="residue" x="971.0" y="91.6" text-anchor="middle">N</text>
+<rect class="cell" x="978" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:58  F</title></rect>
+<text class="residue" x="985.0" y="91.6" text-anchor="middle">F</text>
+<rect class="cell" x="992" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:59  S</title></rect>
+<text class="residue" x="999.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="1006" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:60  L</title></rect>
+<text class="residue" x="1013.0" y="91.6" text-anchor="middle">L</text>
+<rect class="cell" x="1020" y="79" width="14" height="18" fill="#F08080"><title>Pvu2g0656  pos:61  C</title></rect>
+<text class="residue" x="1027.0" y="91.6" text-anchor="middle">C</text>
+<rect class="cell" x="1034" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:62  L</title></rect>
+<text class="residue" x="1041.0" y="91.6" text-anchor="middle">L</text>
+<rect class="cell" x="1048" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:63  S</title></rect>
+<text class="residue" x="1055.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="1062" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:64  S</title></rect>
+<text class="residue" x="1069.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="1076" y="79" width="14" height="18" fill="#CCCC00"><title>Pvu2g0656  pos:65  P</title></rect>
+<text class="residue" x="1083.0" y="91.6" text-anchor="middle">P</text>
+<rect class="cell" x="1090" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:66  I</title></rect>
+<text class="residue" x="1097.0" y="91.6" text-anchor="middle">I</text>
+<rect class="cell" x="1104" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:67  I</title></rect>
+<text class="residue" x="1111.0" y="91.6" text-anchor="middle">I</text>
+<rect class="cell" x="1118" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:68  S</title></rect>
+<text class="residue" x="1125.0" y="91.6" text-anchor="middle">S</text>
+<rect class="cell" x="1132" y="79" width="14" height="18" fill="#00FF00"><title>Pvu2g0656  pos:69  T</title></rect>
+<text class="residue" x="1139.0" y="91.6" text-anchor="middle">T</text>
+<rect class="cell" x="1146" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:70  L</title></rect>
+<text class="residue" x="1153.0" y="91.6" text-anchor="middle">L</text>
+<rect class="cell" x="1160" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:71  V</title></rect>
+<text class="residue" x="1167.0" y="91.6" text-anchor="middle">V</text>
+<rect class="cell" x="1174" y="79" width="14" height="18" fill="#15A4A4"><title>Pvu2g0656  pos:72  H</title></rect>
+<text class="residue" x="1181.0" y="91.6" text-anchor="middle">H</text>
+<rect class="cell" x="1188" y="79" width="14" height="18" fill="#80A0F0"><title>Pvu2g0656  pos:73  F</title></rect>
+<text class="residue" x="1195.0" y="91.6" text-anchor="middle">F</text>
+<rect class="cell" x="1202" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:74  -</title></rect>
+<text class="residue" x="1209.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1216" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:75  -</title></rect>
+<text class="residue" x="1223.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1230" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:76  -</title></rect>
+<text class="residue" x="1237.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1244" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:77  -</title></rect>
+<text class="residue" x="1251.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1258" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:78  -</title></rect>
+<text class="residue" x="1265.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1272" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:79  -</title></rect>
+<text class="residue" x="1279.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1286" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:80  -</title></rect>
+<text class="residue" x="1293.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1300" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:81  -</title></rect>
+<text class="residue" x="1307.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1314" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:82  -</title></rect>
+<text class="residue" x="1321.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1328" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:83  -</title></rect>
+<text class="residue" x="1335.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1342" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:84  -</title></rect>
+<text class="residue" x="1349.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1356" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:85  -</title></rect>
+<text class="residue" x="1363.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1370" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:86  -</title></rect>
+<text class="residue" x="1377.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1384" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:87  -</title></rect>
+<text class="residue" x="1391.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1398" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:88  -</title></rect>
+<text class="residue" x="1405.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1412" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:89  -</title></rect>
+<text class="residue" x="1419.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1426" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:90  -</title></rect>
+<text class="residue" x="1433.0" y="91.6" text-anchor="middle">-</text>
+<rect class="cell" x="1440" y="79" width="14" height="18" fill="#FFFFFF"><title>Pvu2g0656  pos:91  -</title></rect>
+<text class="residue" x="1447.0" y="91.6" text-anchor="middle">-</text>
+<text x="5" y="109.6" class="seq-label">Pvu3g0650</text>
+<rect class="cell" x="180" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:1  M</title></rect>
+<text class="residue" x="187.0" y="109.6" text-anchor="middle">M</text>
+<rect class="cell" x="194" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:2  A</title></rect>
+<text class="residue" x="201.0" y="109.6" text-anchor="middle">A</text>
+<rect class="cell" x="208" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:3  V</title></rect>
+<text class="residue" x="215.0" y="109.6" text-anchor="middle">V</text>
+<rect class="cell" x="222" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:4  -</title></rect>
+<text class="residue" x="229.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="236" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:5  -</title></rect>
+<text class="residue" x="243.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="250" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:6  -</title></rect>
+<text class="residue" x="257.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="264" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:7  -</title></rect>
+<text class="residue" x="271.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="278" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:8  -</title></rect>
+<text class="residue" x="285.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="292" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:9  -</title></rect>
+<text class="residue" x="299.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="306" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:10  -</title></rect>
+<text class="residue" x="313.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="320" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:11  -</title></rect>
+<text class="residue" x="327.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="334" y="97" width="14" height="18" fill="#C048C0"><title>Pvu3g0650  pos:12  D</title></rect>
+<text class="residue" x="341.0" y="109.6" text-anchor="middle">D</text>
+<rect class="cell" x="348" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:13  V</title></rect>
+<text class="residue" x="355.0" y="109.6" text-anchor="middle">V</text>
+<rect class="cell" x="362" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:14  F</title></rect>
+<text class="residue" x="369.0" y="109.6" text-anchor="middle">F</text>
+<rect class="cell" x="376" y="97" width="14" height="18" fill="#CCCC00"><title>Pvu3g0650  pos:15  P</title></rect>
+<text class="residue" x="383.0" y="109.6" text-anchor="middle">P</text>
+<rect class="cell" x="390" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:16  W</title></rect>
+<text class="residue" x="397.0" y="109.6" text-anchor="middle">W</text>
+<rect class="cell" x="404" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:17  K</title></rect>
+<text class="residue" x="411.0" y="109.6" text-anchor="middle">K</text>
+<rect class="cell" x="418" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:18  K</title></rect>
+<text class="residue" x="425.0" y="109.6" text-anchor="middle">K</text>
+<rect class="cell" x="432" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:19  S</title></rect>
+<text class="residue" x="439.0" y="109.6" text-anchor="middle">S</text>
+<rect class="cell" x="446" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:20  K</title></rect>
+<text class="residue" x="453.0" y="109.6" text-anchor="middle">K</text>
+<rect class="cell" x="460" y="97" width="14" height="18" fill="#CCCC00"><title>Pvu3g0650  pos:21  P</title></rect>
+<text class="residue" x="467.0" y="109.6" text-anchor="middle">P</text>
+<rect class="cell" x="474" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:22  S</title></rect>
+<text class="residue" x="481.0" y="109.6" text-anchor="middle">S</text>
+<rect class="cell" x="488" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:23  K</title></rect>
+<text class="residue" x="495.0" y="109.6" text-anchor="middle">K</text>
+<rect class="cell" x="502" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:24  T</title></rect>
+<text class="residue" x="509.0" y="109.6" text-anchor="middle">T</text>
+<rect class="cell" x="516" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:25  Q</title></rect>
+<text class="residue" x="523.0" y="109.6" text-anchor="middle">Q</text>
+<rect class="cell" x="530" y="97" width="14" height="18" fill="#CCCC00"><title>Pvu3g0650  pos:26  P</title></rect>
+<text class="residue" x="537.0" y="109.6" text-anchor="middle">P</text>
+<rect class="cell" x="544" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:27  R</title></rect>
+<text class="residue" x="551.0" y="109.6" text-anchor="middle">R</text>
+<rect class="cell" x="558" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:28  F</title></rect>
+<text class="residue" x="565.0" y="109.6" text-anchor="middle">F</text>
+<rect class="cell" x="572" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:29  V</title></rect>
+<text class="residue" x="579.0" y="109.6" text-anchor="middle">V</text>
+<rect class="cell" x="586" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:30  A</title></rect>
+<text class="residue" x="593.0" y="109.6" text-anchor="middle">A</text>
+<rect class="cell" x="600" y="97" width="14" height="18" fill="#F09048"><title>Pvu3g0650  pos:31  G</title></rect>
+<text class="residue" x="607.0" y="109.6" text-anchor="middle">G</text>
+<rect class="cell" x="614" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:32  T</title></rect>
+<text class="residue" x="621.0" y="109.6" text-anchor="middle">T</text>
+<rect class="cell" x="628" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:33  R</title></rect>
+<text class="residue" x="635.0" y="109.6" text-anchor="middle">R</text>
+<rect class="cell" x="642" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:34  K</title></rect>
+<text class="residue" x="649.0" y="109.6" text-anchor="middle">K</text>
+<rect class="cell" x="656" y="97" width="14" height="18" fill="#15A4A4"><title>Pvu3g0650  pos:35  H</title></rect>
+<text class="residue" x="663.0" y="109.6" text-anchor="middle">H</text>
+<rect class="cell" x="670" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:36  K</title></rect>
+<text class="residue" x="677.0" y="109.6" text-anchor="middle">K</text>
+<rect class="cell" x="684" y="97" width="14" height="18" fill="#F08080"><title>Pvu3g0650  pos:37  C</title></rect>
+<text class="residue" x="691.0" y="109.6" text-anchor="middle">C</text>
+<rect class="cell" x="698" y="97" width="14" height="18" fill="#F09048"><title>Pvu3g0650  pos:38  G</title></rect>
+<text class="residue" x="705.0" y="109.6" text-anchor="middle">G</text>
+<rect class="cell" x="712" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:39  Q</title></rect>
+<text class="residue" x="719.0" y="109.6" text-anchor="middle">Q</text>
+<rect class="cell" x="726" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:40  A</title></rect>
+<text class="residue" x="733.0" y="109.6" text-anchor="middle">A</text>
+<rect class="cell" x="740" y="97" width="14" height="18" fill="#15A4A4"><title>Pvu3g0650  pos:41  H</title></rect>
+<text class="residue" x="747.0" y="109.6" text-anchor="middle">H</text>
+<rect class="cell" x="754" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:42  T</title></rect>
+<text class="residue" x="761.0" y="109.6" text-anchor="middle">T</text>
+<rect class="cell" x="768" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:43  N</title></rect>
+<text class="residue" x="775.0" y="109.6" text-anchor="middle">N</text>
+<rect class="cell" x="782" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:44  L</title></rect>
+<text class="residue" x="789.0" y="109.6" text-anchor="middle">L</text>
+<rect class="cell" x="796" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:45  S</title></rect>
+<text class="residue" x="803.0" y="109.6" text-anchor="middle">S</text>
+<rect class="cell" x="810" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:46  T</title></rect>
+<text class="residue" x="817.0" y="109.6" text-anchor="middle">T</text>
+<rect class="cell" x="824" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:47  R</title></rect>
+<text class="residue" x="831.0" y="109.6" text-anchor="middle">R</text>
+<rect class="cell" x="838" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:48  T</title></rect>
+<text class="residue" x="845.0" y="109.6" text-anchor="middle">T</text>
+<rect class="cell" x="852" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:49  N</title></rect>
+<text class="residue" x="859.0" y="109.6" text-anchor="middle">N</text>
+<rect class="cell" x="866" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:50  Q</title></rect>
+<text class="residue" x="873.0" y="109.6" text-anchor="middle">Q</text>
+<rect class="cell" x="880" y="97" width="14" height="18" fill="#F09048"><title>Pvu3g0650  pos:51  G</title></rect>
+<text class="residue" x="887.0" y="109.6" text-anchor="middle">G</text>
+<rect class="cell" x="894" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:52  S</title></rect>
+<text class="residue" x="901.0" y="109.6" text-anchor="middle">S</text>
+<rect class="cell" x="908" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:53  F</title></rect>
+<text class="residue" x="915.0" y="109.6" text-anchor="middle">F</text>
+<rect class="cell" x="922" y="97" width="14" height="18" fill="#CCCC00"><title>Pvu3g0650  pos:54  P</title></rect>
+<text class="residue" x="929.0" y="109.6" text-anchor="middle">P</text>
+<rect class="cell" x="936" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:55  N</title></rect>
+<text class="residue" x="943.0" y="109.6" text-anchor="middle">N</text>
+<rect class="cell" x="950" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:56  M</title></rect>
+<text class="residue" x="957.0" y="109.6" text-anchor="middle">M</text>
+<rect class="cell" x="964" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:57  A</title></rect>
+<text class="residue" x="971.0" y="109.6" text-anchor="middle">A</text>
+<rect class="cell" x="978" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:58  F</title></rect>
+<text class="residue" x="985.0" y="109.6" text-anchor="middle">F</text>
+<rect class="cell" x="992" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:59  S</title></rect>
+<text class="residue" x="999.0" y="109.6" text-anchor="middle">S</text>
+<rect class="cell" x="1006" y="97" width="14" height="18" fill="#CCCC00"><title>Pvu3g0650  pos:60  P</title></rect>
+<text class="residue" x="1013.0" y="109.6" text-anchor="middle">P</text>
+<rect class="cell" x="1020" y="97" width="14" height="18" fill="#F08080"><title>Pvu3g0650  pos:61  C</title></rect>
+<text class="residue" x="1027.0" y="109.6" text-anchor="middle">C</text>
+<rect class="cell" x="1034" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:62  L</title></rect>
+<text class="residue" x="1041.0" y="109.6" text-anchor="middle">L</text>
+<rect class="cell" x="1048" y="97" width="14" height="18" fill="#F01505"><title>Pvu3g0650  pos:63  R</title></rect>
+<text class="residue" x="1055.0" y="109.6" text-anchor="middle">R</text>
+<rect class="cell" x="1062" y="97" width="14" height="18" fill="#00FF00"><title>Pvu3g0650  pos:64  S</title></rect>
+<text class="residue" x="1069.0" y="109.6" text-anchor="middle">S</text>
+<rect class="cell" x="1076" y="97" width="14" height="18" fill="#CCCC00"><title>Pvu3g0650  pos:65  P</title></rect>
+<text class="residue" x="1083.0" y="109.6" text-anchor="middle">P</text>
+<rect class="cell" x="1090" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:66  V</title></rect>
+<text class="residue" x="1097.0" y="109.6" text-anchor="middle">V</text>
+<rect class="cell" x="1104" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:67  I</title></rect>
+<text class="residue" x="1111.0" y="109.6" text-anchor="middle">I</text>
+<rect class="cell" x="1118" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:68  -</title></rect>
+<text class="residue" x="1125.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1132" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:69  -</title></rect>
+<text class="residue" x="1139.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1146" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:70  -</title></rect>
+<text class="residue" x="1153.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1160" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:71  -</title></rect>
+<text class="residue" x="1167.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1174" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:72  -</title></rect>
+<text class="residue" x="1181.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1188" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:73  -</title></rect>
+<text class="residue" x="1195.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1202" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:74  -</title></rect>
+<text class="residue" x="1209.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1216" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:75  -</title></rect>
+<text class="residue" x="1223.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1230" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:76  -</title></rect>
+<text class="residue" x="1237.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1244" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:77  -</title></rect>
+<text class="residue" x="1251.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1258" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:78  -</title></rect>
+<text class="residue" x="1265.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1272" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:79  -</title></rect>
+<text class="residue" x="1279.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1286" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:80  -</title></rect>
+<text class="residue" x="1293.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1300" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:81  -</title></rect>
+<text class="residue" x="1307.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1314" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:82  -</title></rect>
+<text class="residue" x="1321.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1328" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:83  -</title></rect>
+<text class="residue" x="1335.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1342" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:84  -</title></rect>
+<text class="residue" x="1349.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1356" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:85  -</title></rect>
+<text class="residue" x="1363.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1370" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:86  -</title></rect>
+<text class="residue" x="1377.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1384" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:87  -</title></rect>
+<text class="residue" x="1391.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1398" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:88  -</title></rect>
+<text class="residue" x="1405.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1412" y="97" width="14" height="18" fill="#FFFFFF"><title>Pvu3g0650  pos:89  -</title></rect>
+<text class="residue" x="1419.0" y="109.6" text-anchor="middle">-</text>
+<rect class="cell" x="1426" y="97" width="14" height="18" fill="#15A4A4"><title>Pvu3g0650  pos:90  Y</title></rect>
+<text class="residue" x="1433.0" y="109.6" text-anchor="middle">Y</text>
+<rect class="cell" x="1440" y="97" width="14" height="18" fill="#80A0F0"><title>Pvu3g0650  pos:91  L</title></rect>
+<text class="residue" x="1447.0" y="109.6" text-anchor="middle">L</text>
+<text x="5" y="157.6" class="seq-label">Conservation</text>
+<rect class="cell" x="180" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:1  保守性:100%</title></rect>
+<rect class="cell" x="194" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:2  保守性:80%</title></rect>
+<rect class="cell" x="208" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:3  保守性:100%</title></rect>
+<rect class="cell" x="222" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:4  保守性:100%</title></rect>
+<rect class="cell" x="236" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:5  保守性:80%</title></rect>
+<rect class="cell" x="250" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:6  保守性:80%</title></rect>
+<rect class="cell" x="264" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:7  保守性:60%</title></rect>
+<rect class="cell" x="278" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:8  保守性:80%</title></rect>
+<rect class="cell" x="292" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:9  保守性:80%</title></rect>
+<rect class="cell" x="306" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:10  保守性:80%</title></rect>
+<rect class="cell" x="320" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:11  保守性:60%</title></rect>
+<rect class="cell" x="334" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:12  保守性:60%</title></rect>
+<rect class="cell" x="348" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:13  保守性:20%</title></rect>
+<rect class="cell" x="362" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:14  保守性:40%</title></rect>
+<rect class="cell" x="376" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:15  保守性:60%</title></rect>
+<rect class="cell" x="390" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:16  保守性:40%</title></rect>
+<rect class="cell" x="404" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:17  保守性:100%</title></rect>
+<rect class="cell" x="418" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:18  保守性:100%</title></rect>
+<rect class="cell" x="432" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:19  保守性:40%</title></rect>
+<rect class="cell" x="446" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:20  保守性:60%</title></rect>
+<rect class="cell" x="460" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:21  保守性:40%</title></rect>
+<rect class="cell" x="474" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:22  保守性:40%</title></rect>
+<rect class="cell" x="488" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:23  保守性:40%</title></rect>
+<rect class="cell" x="502" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:24  保守性:40%</title></rect>
+<rect class="cell" x="516" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:25  保守性:20%</title></rect>
+<rect class="cell" x="530" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:26  保守性:20%</title></rect>
+<rect class="cell" x="544" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:27  保守性:40%</title></rect>
+<rect class="cell" x="558" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:28  保守性:80%</title></rect>
+<rect class="cell" x="572" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:29  保守性:20%</title></rect>
+<rect class="cell" x="586" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:30  保守性:40%</title></rect>
+<rect class="cell" x="600" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:31  保守性:40%</title></rect>
+<rect class="cell" x="614" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:32  保守性:80%</title></rect>
+<rect class="cell" x="628" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:33  保守性:80%</title></rect>
+<rect class="cell" x="642" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:34  保守性:60%</title></rect>
+<rect class="cell" x="656" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:35  保守性:40%</title></rect>
+<rect class="cell" x="670" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:36  保守性:60%</title></rect>
+<rect class="cell" x="684" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:37  保守性:80%</title></rect>
+<rect class="cell" x="698" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:38  保守性:40%</title></rect>
+<rect class="cell" x="712" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:39  保守性:80%</title></rect>
+<rect class="cell" x="726" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:40  保守性:20%</title></rect>
+<rect class="cell" x="740" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:41  保守性:40%</title></rect>
+<rect class="cell" x="754" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:42  保守性:80%</title></rect>
+<rect class="cell" x="768" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:43  保守性:40%</title></rect>
+<rect class="cell" x="782" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:44  保守性:60%</title></rect>
+<rect class="cell" x="796" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:45  保守性:40%</title></rect>
+<rect class="cell" x="810" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:46  保守性:40%</title></rect>
+<rect class="cell" x="824" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:47  保守性:60%</title></rect>
+<rect class="cell" x="838" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:48  保守性:80%</title></rect>
+<rect class="cell" x="852" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:49  保守性:20%</title></rect>
+<rect class="cell" x="866" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:50  保守性:60%</title></rect>
+<rect class="cell" x="880" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:51  保守性:20%</title></rect>
+<rect class="cell" x="894" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:52  保守性:40%</title></rect>
+<rect class="cell" x="908" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:53  保守性:60%</title></rect>
+<rect class="cell" x="922" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:54  保守性:80%</title></rect>
+<rect class="cell" x="936" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:55  保守性:80%</title></rect>
+<rect class="cell" x="950" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:56  保守性:80%</title></rect>
+<rect class="cell" x="964" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:57  保守性:40%</title></rect>
+<rect class="cell" x="978" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:58  保守性:80%</title></rect>
+<rect class="cell" x="992" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:59  保守性:80%</title></rect>
+<rect class="cell" x="1006" y="145" width="14" height="18" fill="rgb(204,204,204)"><title>pos:60  保守性:20%</title></rect>
+<rect class="cell" x="1020" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:61  保守性:80%</title></rect>
+<rect class="cell" x="1034" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:62  保守性:60%</title></rect>
+<rect class="cell" x="1048" y="145" width="14" height="18" fill="rgb(153,153,153)"><title>pos:63  保守性:40%</title></rect>
+<rect class="cell" x="1062" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:64  保守性:80%</title></rect>
+<rect class="cell" x="1076" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:65  保守性:100%</title></rect>
+<rect class="cell" x="1090" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:66  保守性:60%</title></rect>
+<rect class="cell" x="1104" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:67  保守性:80%</title></rect>
+<rect class="cell" x="1118" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:68  保守性:60%</title></rect>
+<rect class="cell" x="1132" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:69  保守性:80%</title></rect>
+<rect class="cell" x="1146" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:70  保守性:80%</title></rect>
+<rect class="cell" x="1160" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:71  保守性:100%</title></rect>
+<rect class="cell" x="1174" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:72  保守性:80%</title></rect>
+<rect class="cell" x="1188" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:73  保守性:100%</title></rect>
+<rect class="cell" x="1202" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:74  保守性:100%</title></rect>
+<rect class="cell" x="1216" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:75  保守性:100%</title></rect>
+<rect class="cell" x="1230" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:76  保守性:80%</title></rect>
+<rect class="cell" x="1244" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:77  保守性:80%</title></rect>
+<rect class="cell" x="1258" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:78  保守性:100%</title></rect>
+<rect class="cell" x="1272" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:79  保守性:60%</title></rect>
+<rect class="cell" x="1286" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:80  保守性:80%</title></rect>
+<rect class="cell" x="1300" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:81  保守性:100%</title></rect>
+<rect class="cell" x="1314" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:82  保守性:60%</title></rect>
+<rect class="cell" x="1328" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:83  保守性:100%</title></rect>
+<rect class="cell" x="1342" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:84  保守性:100%</title></rect>
+<rect class="cell" x="1356" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:85  保守性:100%</title></rect>
+<rect class="cell" x="1370" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:86  保守性:100%</title></rect>
+<rect class="cell" x="1384" y="145" width="14" height="18" fill="rgb(0,0,0)"><title>pos:87  保守性:100%</title></rect>
+<rect class="cell" x="1398" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:88  保守性:80%</title></rect>
+<rect class="cell" x="1412" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:89  保守性:60%</title></rect>
+<rect class="cell" x="1426" y="145" width="14" height="18" fill="rgb(50,50,50)"><title>pos:90  保守性:80%</title></rect>
+<rect class="cell" x="1440" y="145" width="14" height="18" fill="rgb(102,102,102)"><title>pos:91  保守性:60%</title></rect>
+</svg>

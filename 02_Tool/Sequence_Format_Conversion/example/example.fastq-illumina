@@ -1,0 +1,12 @@
+@SEQ1 Example FASTQ sequence 1
+ATGCGTACGTAGCTAGCTAGCATCGATCGA---TCGATCGATCGTAGCTA
++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+@SEQ2 Example FASTQ sequence 2
+GGTACCTTACGCGATCGATCGTAGCTAGCTAGCTAGCATCGTACGATCGA
++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+@SEQ3 Example FASTQ sequence 3
+CTAGCTAGCATGCATGCATGCATGCATGCATG---CATGCATGCATGCAT
++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
